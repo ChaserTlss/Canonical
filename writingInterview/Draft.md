@@ -46,23 +46,23 @@ They want me to share details not because they are interested in me or want to b
 
 ### Academic achievements obtained at school
 
-- [ ] How did you rank in your final year of high school in mathematics? Were you a top student? On what basis would you say that?
-- [ ] How did you rank in your final year of high school, in your home language? Were you a top student? On what basis would you say that?
+- [x] How did you rank in your final year of high school in mathematics? Were you a top student? On what basis would you say that?
+- [x] How did you rank in your final year of high school, in your home language? Were you a top student? On what basis would you say that?
 
-- [ ] Please state your high school graduation results or university entrance results, and explain the grading system used. For example, in the US, you might give your SAT or ACT scores. In Germany, you might give your scores out of a grading system of 1-5, with 1 being the best.
-- [ ] Can you make a case that you are in the top 5% in your academic year, or top 1%, or even higher? If so please outline that case. Make reference where 
-- [ ] Which university and degree did you choose? What other universities did you consider, and why did you select that one?
-- [ ] Overall, what was your degree result and how did that reflect on your ability? Please help us understand the grading system for your results.
+- [x] Please state your high school graduation results or university entrance results, and explain the grading system used. For example, in the US, you might give your SAT or ACT scores. In Germany, you might give your scores out of a grading system of 1-5, with 1 being the best.
+- [x] Can you make a case that you are in the top 5% in your academic year, or top 1%, or even higher? If so please outline that case. Make reference where 
+- [x] Which university and degree did you choose? What other universities did you consider, and why did you select that one?
+- [x] Overall, what was your degree result and how did that reflect on your ability? Please help us understand the grading system for your results.
 
 ### Extracurricular achievements obtained at school
 
-- [ ] What sort of high school student were you? Outside of class, what were your interests and hobbies? What would your high school peers remember you for?
+- [x] What sort of high school student were you? Outside of class, what were your interests and hobbies? What would your high school peers remember you for?
 
-- [ ] What leadership roles did you take on during your education? Did you conceive of, and drive to completion, any initiatives outside of your required classwork?
+- [x] What leadership roles did you take on during your education? Did you conceive of, and drive to completion, any initiatives outside of your required classwork?
 
 ### Summary
 
-- [ ] During all of your education years, from high school to university, can you describe any achievements that were truly exceptional?
+- [x] During all of your education years, from high school to university, can you describe any achievements that were truly exceptional?
 
 <hr>
 
