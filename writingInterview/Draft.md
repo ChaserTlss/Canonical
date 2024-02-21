@@ -14,24 +14,24 @@ They want me to share details not because they are interested in me or want to b
 
 ### Interesting and self-learning
 
-- [ ] Describe a skill or knowledge you acquired recently that has been impactful for you. Why did you make this investment? What has the outcome been?
-- [ ] What new skill would you like to learn? Why do you think this is important or timely or interesting? Why do you think you will be good at it?
+- [x] Describe a skill or knowledge you acquired recently that has been impactful for you. Why did you make this investment? What has the outcome been?
+- [x] What new skill would you like to learn? Why do you think this is important or timely or interesting? Why do you think you will be good at it?
 
 ### Career project experience
 
-- [ ] Describe your experience as a developer on embedded Linux.
-- [ ] Describe your experience with Linux kernel development and debugging.
-- [ ] Describe your experience of low-level boot processes and BIOS / firmware.
-- [ ] Which Linux middleware/user space stacks are you the most familiar with? For example gstreamer, libinput, audio subsystems etc
-- [ ] Have you created .deb or .rpm packages? Please describe your experience with Linux packaging.
-- [ ] What kinds of software projects have you worked on before? Which operating systems, development environments, languages, databases?
+- [x] Describe your experience as a developer on embedded Linux.
+- [x] Describe your experience with Linux kernel development and debugging.
+- [x] Describe your experience of low-level boot processes and BIOS / firmware.
+- [x] Which Linux middleware/user space stacks are you the most familiar with? For example gstreamer, libinput, audio subsystems etc
+- [x] Have you created .deb or .rpm packages? Please describe your experience with Linux packaging.
+- [x] What kinds of software projects have you worked on before? Which operating systems, development environments, languages, databases?
 
 ### Personal opinion or measure of work
 
-- [ ] How do you address software performance in your coding practice?
-- [ ] How do you prefer to drive documentation for your products?
-- [ ] How do you think about and ensure quality in your software products?
-- [ ] Describe a case where it was very difficult to test code you were writing, but you found a reliable way to do it.
+- [x] How do you address software performance in your coding practice?
+- [x] How do you prefer to drive documentation for your products?
+- [x] How do you think about and ensure quality in your software products?
+- [x] Describe a case where it was very difficult to test code you were writing, but you found a reliable way to do it.
 
 ### Language skill
 
@@ -66,12 +66,12 @@ They want me to share details not because they are interested in me or want to b
 
 <hr>
 
-### Self-reflect
+### Career Development
 
-- [ ] How would you describe your experience as a professional software engineer?
-- [ ] What are your strengths as a software engineer?
-- [ ] What is your proudest success as an engineer?
-- [ ] What would you like to achieve in your career and skills development?
+- [x] How would you describe your experience as a professional software engineer?
+- [x] What are your strengths as a software engineer?
+- [x] What is your proudest success as an engineer?
+- [x] What would you like to achieve in your career and skills development?
 
 <hr>
 
