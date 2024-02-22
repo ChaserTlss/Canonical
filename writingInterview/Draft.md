@@ -35,12 +35,12 @@ They want me to share details not because they are interested in me or want to b
 
 ### Language skill
 
-- [ ] Describe your C/C++ software development experience to date. How would you rate your competency with C/C++?
-- [ ] Describe your experience in Golang and Python.
+- [x] Describe your C/C++ software development experience to date. How would you rate your competency with C/C++?
+- [x] Describe your experience in Golang and Python.
 
 ### PUZZLE
 
-- [ ] What interesting syscalls are used by the “uname” binary? How did you find out?
+- [x] What interesting syscalls are used by the “uname” binary? How did you find out?
 
 <hr/>
 
@@ -79,6 +79,6 @@ They want me to share details not because they are interested in me or want to b
 
 - [ ] Are you involved in maintaining or developing open source software projects?
 - [ ] Why do you most want to work for Canonical?
-- [ ] What do you think Canonical needs to improve in its engineering and products?
-- [ ] Who do you think are key competitors to Canonical? How do you think Canonical should plan to win that race?
+- [x] What do you think Canonical needs to improve in its engineering and products?
+- [x] Who do you think are key competitors to Canonical? How do you think Canonical should plan to win that race?
 

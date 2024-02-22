@@ -4,7 +4,7 @@
 
 #### **High School**
 
-My first challenge came from my high school entrance exam. Under the "Hukou" system in China, getting an offer from Shanghai High School was difficult since my birthplace was not in Shanghai. The "Hukou" system is China's household registration system, tying access to local services like education to one's birthplace. Non-local people can't access the foundation server, such as education and retirement security.
+My first challenge came from my high school entrance exam. Under the "Hukou" system, getting an offer from Shanghai High School was difficult since my birthplace was not in Shanghai. The "Hukou" system is China's household registration system, tying access to local services like education to one's birthplace. Non-local people can't access the foundation server, such as education and retirement security.
 
 After a struggling seeking process, I was admitted to a private high school. Since my high school's purpose is to provide education for the non-local student, they find it hard to get enough resources to support their education process. But it didn't bother me too much. I established a good relationship with my high school teachers, learned considerable knowledge from them, and achieved satisfactory results in the college entrance examination.
 
@@ -20,7 +20,7 @@ My university is in the top 100 of 2820 universities in China. In addition to it
 
 My results and performance during university can be reflected in my Graduation Project. In my second year, my tutor was unable to find suitable candidates from among his graduate students to participate in his project on metal 3D printers. I recommended myself, and with my extracurricular competition experience in high school, I became a member of his team, responsible for microcontroller control and sensor debugging. I used the control algorithm part of it as my graduation project. I got 91 points out of 100, and my GPA was 8.73 in the final term; the maximum is 10 points.
 
-My interest in embedded systems also started from that project. My skill in C language was practised well, and I mastered a lot of basic hardware knowledge.
+My interest in embedded systems also started from that project. My skill in C language was practised well, and I grabbed a lot of basic hardware knowledge.
 
 ### **Extracurricular achievements obtained at school**
 
@@ -28,7 +28,7 @@ My interest in embedded systems also started from that project. My skill in C la
 
 From 2006 to 2008, I found a fairer platform to present my ability than the high school entrance exam without local or no-local bias. I attend CASTIC, which is one of the biggest national science competitions in China.
 
-My topic is *The herbicidal and bacteriostatic effects of Solidago canadensis*. The background Solidago canadensis is an alien species in Shanghai; it has a great competitive advantage over native plants in Shanghai and China, causing society to spend a lot of money on the removal of it. But if we can find its commercial value, then we can recover part of the cost.
+My topic is *The herbicidal and bacteriostatic effects of Solidago canadensis*. As the background, Solidago canadensis is an alien species in Shanghai; it has a great competitive advantage over native plants in Shanghai and China, causing society to spend a lot of money on the removal of it. But if we can find its commercial value, then we can recover part of the cost.
 
 I started the personal research in my final year of junior high school in 2006, and I got help from my teacher from junior high school, who helped me find a professor at Shanghai University and lent me the Sterile laboratory. My teacher and I established multiple control groups and finally found that its extract would cause the roots of other plants to shrink and hinder the growth of mould colonies at a certain concentration.
 

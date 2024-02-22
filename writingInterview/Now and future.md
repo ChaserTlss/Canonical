@@ -45,6 +45,34 @@ In the next years, I hope that I can continually explore my interests in the sof
 
 ### Canonical and competitors
 
-Based on the position I applied for, I think we can focus on discussing the competitors of  Ubuntu Core.
+Based on the position I applied for, I think we can focus on discussing the Ubuntu Core. From my understanding, the goal of Ubuntu Core is to provide an application development environment, the low-level hardware detail will be handled by Canonical. This is different from some embedded system providers, such as FreeRTOS and VxWorks. Their purpose is to provide a framework to help customers handle the low-level hardware detail.
 
-#### Wind River Linux
+Based on the above understanding, I listed Ubuntu Core's competitors as follows:
+
+1. Wind River Linux, Yocto Project and Linux distributions of each equipment manufacturer
+
+   They are our fiercest direct competitors. They have advantages in customized equipment. The advantage of Ubuntu Core is a more convenient application development environment, especially the `Snap`. I suggest two options to win the competition
+
+   1. Broaden the range of hardware supported by Ubuntu Core.
+   2. Respond proactively to the needs of our partners.
+
+2. FreeRTOS, VxWorks, Zephyr and bare-metal firmware
+
+   Ubuntu Core was limited by Linux, which can not run on some platforms that they can. But in other situations, our potential customers may select them because of concerns about the performance.
+
+   1. Ubuntu Core can provide performance debugging tools that are more suitable for embedded systems.
+
+3. The QNX system of BlackBerry
+
+   BlackBerry consistently reinforces the advantage of the QNX system in the Automotive Embedded System domain. To win that race, Ubuntu Core should:
+
+   1. Enhanced support for automotive sensors, such as radar distance sensors.
+
+4. Android
+
+   Android is worth learning in the field of application development environment. They have powerful development kits, Android Studio, and complete application markets.
+
+   1. Ubuntu Core can launch an Easy-to-use development kit.
+
+In summary, Ubuntu Core can be enhanced from two aspects: Working closely with partners to add support for different hardware and providing more kits for application development, such as performance debugging kits and UI development kits.
+

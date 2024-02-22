@@ -33,18 +33,18 @@ I want to highlight the unit test code system of this SSD controller firmware. B
 The production of my last company is an enterprise AI Accesstor card for Linux servers. As a startup company, when I joined it, we faced an extreme human source shortage. Therefore, I took on a lot of tasks:
 
 1. I designed and coded the Linux PCIe driver.
-2. I designed and implemented the firmware of the PCIe controller.
+2. I designed and implemented the firmware of the PCIe controller. That firmware is bare-metal on a RISC-V chip.
 3. I address and improve the software performance, including the PCIe driver, PCIe firmware and AI compiler.
 4. I provided and implemented the Python APIs for the QA team to test the firmware and driver.
 5. I provided and implemented the APIs for the K8S team for the virtualization function.
 
 #### Address and improve the software performance
 
-I did a lot of work related to software performance for the last company. I would take different steps in both cases: Based on Linux or based on firmware.
+I did a lot of work related to software performance for the last company. I would take different steps in both cases: Based on Linux or bare-metal.
 
 Based on Linux, Linux offers complete toolchains for us. I would first use the command `perf` to record the stack trace information, then use the Flame Graph to analyze it.
 
-Based on firmware, it would be more complex. If we have a central process scheduler, I will use the macro to add some debug code to determine if some process executing time is unexpected. If we didn't have a central process scheduler, we need to analyze the code and try to address the hot code. Adding some time stamp logs will be helpful.
+Based on bare-metal, it would be more complex. In most situations, I will add some logs and print the time stamp to try to address the hot point. In some situations, it is too hard to localize the hot point. I will try to review the code and the git history. Then, I expect I can figure out which commit led to this performance issue.
 
 #### Package the driver and middleware layer for the QA team and K8S team
 
@@ -66,4 +66,19 @@ It also helped me complete this detailed written interview.
 
 #### Programming language
 
-My C language programming skills have been practiced in many projects, and I think I am a proficient C language user.
+My C software development experience was described above, except for _The Solid-stater drive Controller Firmware_, which was developed in C++. I'm proficient in C. For C++, I was familiar with C++11.
+
+I am familiar with Python but haven't used it in enterprise projects. I only use it as a convenient tool. I learned the various Python libraries such as Numpy, Django and Panda.
+
+I understand the Golang by being self-taught.
+
+Other languages which I can use include Java, Javascript, Kotlin, and Swift.
+
+#### What interesting syscalls are used by the “uname” binary? How did you find out?
+
+There are three ways that can be considered:
+
+1. `strace`: We can use this command to record system calls.
+2. Modify the kernel log print level, then read the log from `dmesg`.
+3. The `/proc/$pid/` also can tell us a lot of information.
+
