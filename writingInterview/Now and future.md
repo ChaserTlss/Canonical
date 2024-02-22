@@ -14,11 +14,11 @@ I'm in my last term now. In my first term and my second term, I got a GPA of 4.0
 
 There are some new skills I want to learn:
 
-1. proficient in Rust language. Since the Linux kernel Officially supported Rust in 2022, proficiency in it will be important. I've been learning about it for a while now and hope to start using it in personal projects later in 2024.
+1. Proficient in Rust language. Since the Linux kernel Officially supported Rust in 2022, proficiency in it will be necessary. I've been learning about it for a while now and plan to start using it in personal projects later in 2024.
 2. Grab VHDL or Verilog. Hardware description language will boost my ability in the embedded system domain.
 3. Seeking the project manager measure. I think the project manager can be used not only in the team project but also in achieving personal goals.
 
-I believe most of the obstacles in the world are just a door, not a filter. If we observe carefully, think carefully, keep trying, and follow the plan step by step, we can find a way to open the door.
+I believe most obstacles in the world are just a door, not a filter. If we observe, think, keep trying, and follow the plan step by step, we can find a way to open the door.
 
 ## Career Development
 
@@ -41,17 +41,31 @@ In the next years, I hope that I can continually explore my interests in the sof
 
 ### Open source
 
+I was involved in a task that followed up and pushed drivers of the BSP group upstream into the Android kernel branch at my second company.
+
+I was involved in open-source software that could publish my course schedule for my course. I implemented the spider part in Python.
+
+I developed a background process for `vim-autotag` and sent a pull request.
+
+During my university, I submitted some issues for the Marlin project and wrote some Chinese blogs to introduce it to Chinese 3D printer enthusiasts.
+
 ### Canonical and I
+
+I appreciate Canonical's contributions to open-source software.
+
+Additionally, I think the Ubuntu Core has great significance in the embedded domain. Embedded development will always be considered a long research and development cycle and high investment. Because of the diversity of hardware devices, embedded engineers need a lot of hardware knowledge. All of these prevent the development of embedded ecology. If the Ubuntu Core can provide a platform that handles the details of the hardware and makes application development easier, it will greatly promote the development of the entire embedded field.
+
+I hope I have the honour to join that group.
 
 ### Canonical and competitors
 
-Based on the position I applied for, I think we can focus on discussing the Ubuntu Core. From my understanding, the goal of Ubuntu Core is to provide an application development environment, the low-level hardware detail will be handled by Canonical. This is different from some embedded system providers, such as FreeRTOS and VxWorks. Their purpose is to provide a framework to help customers handle the low-level hardware detail.
+Based on the position I applied for, I think we can focus on discussing the Ubuntu Core. From my understanding, the goal of Ubuntu Core is to provide an application development environment. The low-level hardware detail will be handled by Canonical. This is different from some embedded system providers, such as FreeRTOS and VxWorks. Their purpose is to provide a framework to help customers handle the low-level hardware detail.
 
 Based on the above understanding, I listed Ubuntu Core's competitors as follows:
 
 1. Wind River Linux, Yocto Project and Linux distributions of each equipment manufacturer
 
-   They are our fiercest direct competitors. They have advantages in customized equipment. The advantage of Ubuntu Core is a more convenient application development environment, especially the `Snap`. I suggest two options to win the competition
+   They are our fiercest direct competitors. They have advantages in customized equipment. The advantage of Ubuntu Core is a more convenient application development environment, especially the `Snap`. I suggest two options to win the competition.
 
    1. Broaden the range of hardware supported by Ubuntu Core.
    2. Respond proactively to the needs of our partners.
